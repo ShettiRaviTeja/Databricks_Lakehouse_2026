@@ -178,14 +178,15 @@ RetailLakehouse/
 │   ├── silver/
 │   └── gold/
 │
-├── architecture/
+├── datasets/
+│   ├── source_crm/
+│   └── source_erp/
+│
+├── docs/
 │   └── lakehouse_architecture.png
 │
-├── datasets/
-│
-├── README.md
-│
-└── LICENSE
+├── LICENSE
+└── README.md
 ```
 
 ---
